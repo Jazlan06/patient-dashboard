@@ -124,7 +124,7 @@ const DiagnosisHistory = () => {
 
     return (
         <div className="absolute top-[122px] left-[417px] w-[766px] h-[673px] bg-white rounded-[16px]">
-            <h2 className="absolute top-[20px] left-[20px] text-[#072635] text-[24px] leading-[33px] font-extrabold font-manrope">
+            <h2 className="absolute font-serif top-[20px] left-[20px] text-[#072635] text-[24px] leading-[33px] font-extrabold font-manrope">
                 Diagnosis History
             </h2>
             <div className="absolute top-[93px] left-[20px] w-[726px] h-[298px] bg-[#F4F0FE] rounded-[12px]">
